@@ -1,0 +1,97 @@
+# envision_summerschool_nlpmodule
+
+This module is part of the **EnvisionBOX Summer School**, held at the University of Amsterdam from **23–27 June 2025**. It introduces early career researchers to practical NLP techniques for analyzing literary, dialogic, and multimodal data. The focus is on hands-on, interpretable pipelines deployable via both **GitHub** and **Google Colab**.
+
+## 🔍 Focus: NLP for Multimodal Dramatic Texts
+This module works with Shakespearean scenes (e.g., *Romeo and Juliet*), including transcripts from the **Tragic Talkers** dataset (Berghi et al., 2022), to explore syntax, affect, dialogue structure, character modeling, and creative generation using accessible Python tools.
+
+**Note:** The dataset is used under academic fair use as described by the original license. You must cite:
+
+> Berghi, D., Volino, M., & Jackson, P. J. B. (2022). *Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research*. In _European Conference on Visual Media Production (CVMP)_. ACM. [https://doi.org/10.1145/3565516.3565522](https://doi.org/10.1145/3565516.3565522)
+
+---
+
+## 📁 Project Structure
+```
+.
+├── data/
+│   ├── raw/                         # Original text files (transcripts from TragicTalkers)
+│   └── processed/                   # Cleaned, annotated versions
+├── notebooks/                      # Each notebook = one thematic module
+│   ├── 01_preprocessing.ipynb
+│   ├── 02_syntax_style.ipynb
+│   ├── 03_affect_analysis.ipynb
+│   ├── 04_dialog_acts.ipynb
+│   ├── 05_character_vector.ipynb
+│   ├── 06_topics_themes.ipynb
+│   ├── 07_generation.ipynb
+│   └── 08_dashboard.ipynb
+├── src/                            # Utility functions
+│   ├── preprocessing.py
+│   ├── affect_utils.py
+│   └── generation_utils.py
+├── assets/                         # Figures, templates
+├── colab_launcher_links.md         # One-click Colab launchers
+├── README.md                       # This file
+└── requirements.txt                # For local setup
+```
+
+---
+
+## 🧪 Modules and Learning Goals
+
+| Module | Name | Objective |
+|--------|------|-----------|
+| 01 | Preprocessing & Structuring | Segment speakers, normalize text |
+| 02 | Syntax & Stylometry | Extract grammar, style, POS trees |
+| 03 | Affect & Emotion | Track sentiment/emotion shifts |
+| 04 | Speech & Dialog Acts | Label functional dialogue categories |
+| 05 | Character Vectors | Model characters using embeddings |
+| 06 | Topics & Themes | Use LDA/BERTopic to find semantic themes |
+| 07 | Language Generation | Generate text in Juliet/Romeo style |
+| 08 | Visual Dashboards | Combine outputs into visual summaries |
+
+---
+
+## 🚀 Getting Started
+
+### Option 1: Use in Google Colab
+Click below to launch each notebook:
+
+```markdown
+[Open 01_preprocessing.ipynb in Colab](https://colab.research.google.com/github/sarkadava/envisionBOX_SummerschoolAmsterdam2025/blob/main/notebooks/01_preprocessing.ipynb)
+```
+_(More links in `colab_launcher_links.md`)_
+
+### Option 2: Run Locally
+```bash
+git clone https://github.com/sarkadava/envisionBOX_SummerschoolAmsterdam2025.git
+cd envisionBOX_SummerschoolAmsterdam2025
+pip install -r requirements.txt
+jupyter notebook notebooks/
+```
+
+---
+
+## 📅 About the Event
+**EnvisionBOX Summer School: Multimodal Analysis for Early Career Researchers**  
+📍 University of Amsterdam  
+📆 23–27 June 2025  
+🧑‍🏫 Organizers: Šárka Kadavá, Wim Pouw
+
+Hosted by the **EnvisionBOX** initiative, this summer school brings together computational, behavioral, and humanities scholars to explore reproducible, interpretable, and multimodal methods in digital research.
+
+---
+
+## 📜 License
+CC0-1.0 — feel free to use and adapt, excluding the **Tragic Talkers dataset** which must follow its academic use policy.
+
+---
+
+## ✍️ Contributors
+- [Šárka Kadavá (@sarkadava)](https://github.com/sarkadava)
+- [Wim Pouw (@WimPouw)](https://github.com/WimPouw)
+
+---
+
+For issues or ideas, feel free to open a GitHub issue or reach out during the summer school sessions.
