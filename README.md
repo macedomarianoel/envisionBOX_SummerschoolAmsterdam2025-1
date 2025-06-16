@@ -30,7 +30,7 @@ Once you are all set up, it's time to get this repository to your PC.
 Here, you can either use [Github Desktop](https://desktop.github.com/download/) which will later also allow you to synchronize your local version of this repository with any updates I may do here.
 
 > [!NOTE] 
-> **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/MotionTrackingPipeline_Workshop_ZAS2025
+> **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/envisionBOX_SummerschoolAmsterdam2025
 
 If you don't want to install yet another software, you can just download the repository. At the top of this page, click on **<> Code** and then **Download ZIP**. This will download the repository.
 ![alt text](imgs/image.png)
@@ -66,7 +66,7 @@ Go to system settings and search for *Environment Variables*. Click on *Environm
 If you don't see the environment you have created in the list of available kernels, but are 100% sure that you have created it, go to your Anaconda Prompt and type
 
 ```
-python -m ipykernel install --user --name=MTworkshop
+python -m ipykernel install --user --name=NameOfTheEnv
 ```
 
 Now you should see it in the list of available kernels. Note that maybe you will need to restart your VS Code.
