@@ -84,7 +84,6 @@ pip install -r requirements.txt
 ```
 >[!IMPORTANT]
 > Make sure that you are in your desired environment. It should be displayed in brackets at the beginning of your prompt.
-![alt text](imgs/image-1.png)
 
 #### Solution nr. 2
 
