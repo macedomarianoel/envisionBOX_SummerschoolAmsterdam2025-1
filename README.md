@@ -27,7 +27,7 @@ To work with Python scripts, it is very convenient to have a text editor. Essent
 
 Once you are all set up, it's time to get this repository to your PC.
 
-Here, you can either use [Github Desktop](https://desktop.github.com/download/) which will later also allow you to synchronize your local version of this repository with any updates I may do here.
+Here, you can either use [Github Desktop](https://desktop.github.com/download/) which will later also allow you to synchronize your local version of this repository with any updates we may do here.
 
 > [!NOTE] 
 > **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/envisionBOX_SummerschoolAmsterdam2025
