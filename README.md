@@ -95,4 +95,4 @@ pip install mediapipe
 
 ### Did we not address your problem?
 
-If you have encountered a problem that is not listed here, please let us know - ideally **before** the summer school. We will do our best to help you out. You can reach us via email *kadava[et]leibniz-zas[dot]de*
+If you have encountered a problem that is not listed here, please let us know - ideally **before** the summer school. We will do our best to help you out. You can reach us via email *kadava[at]leibniz-zas[dot]de*
