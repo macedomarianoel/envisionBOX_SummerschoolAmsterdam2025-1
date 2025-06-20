@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-10-09-59-07" FORMAT="3.0" VERSION="3.0"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-19-14-24-15" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\UsingEnvisionHGdetector_package\videos_to_label\test_female.mp4"
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\Day3_UsingEnvisionHGdetector\videos_to_label\test_female.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL=""/>
         <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
     </HEADER>

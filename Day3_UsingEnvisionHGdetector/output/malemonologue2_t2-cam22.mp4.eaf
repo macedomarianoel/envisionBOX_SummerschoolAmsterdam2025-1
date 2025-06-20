@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-10-09-58-51" FORMAT="3.0" VERSION="3.0"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-19-14-24-00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\UsingEnvisionHGdetector_package\videos_to_label\malemonologue2_t2-cam22.mp4"
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\Day3_UsingEnvisionHGdetector\videos_to_label\malemonologue2_t2-cam22.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL=""/>
         <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="660"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1060"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1580"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2700"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3540"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4980"/>

@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-10-09-56-12" FORMAT="3.0" VERSION="3.0"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-06-19-14-21-31" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\UsingEnvisionHGdetector_package\videos_to_label\malemonologue1_t4-cam22.mp4"
+        <MEDIA_DESCRIPTOR MEDIA_URL="file://d:\Research_projects\envisionBOX_SummerschoolAmsterdam2025\Day3_UsingEnvisionHGdetector\videos_to_label\malemonologue1_t4-cam22.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL=""/>
         <PROPERTY NAME="lastUsedAnnotationId">0</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2540"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2620"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3020"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3420"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5540"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5900"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6780"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="9580"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="9820"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11380"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="11740"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="12980"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="14300"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15020"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="9820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="14300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="17460"/>
     </TIME_ORDER>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="PREDICTED">
         <ANNOTATION>
@@ -32,7 +30,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>Move</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Gesture</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -57,11 +55,6 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>Gesture</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>Gesture</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
