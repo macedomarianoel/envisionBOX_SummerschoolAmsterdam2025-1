@@ -93,6 +93,20 @@ Or just install the missing package
 pip install mediapipe
 ```
 
+### Troubleshoot if you get an ffmpeg error
+FFmpeg may be required for full functionality of envisionhgdetector package (for automatic hand gesture detection) and needs to be installed at the system level (separate from your conda environment):
+
+Windows and mac users:
+1. In Anaconda Prompt (with envision environment activated):
+   ```bash
+   conda install -c conda-forge ffmpeg
+   ```
+Alternative manual method for Windows:
+- Download from https://www.gyan.dev/ffmpeg/builds/ (get "ffmpeg-release-essentials.zip")
+- Extract the zip file
+- Add the bin folder to your System PATH
+
+
 ### Did we not address your problem?
 
 If you have encountered a problem that is not listed here, please let us know - ideally **before** the summer school. We will do our best to help you out. You can reach us via email *kadava[at]leibniz-zas[dot]de*
