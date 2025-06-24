@@ -2,5 +2,7 @@
 This repository stores materials for EnvisionBOX summer school which takes place between 23-27 June 2025 at University of Amsterdam
 
 
-## Google Colab Link: https://colab.research.google.com/drive/1RpDSZBrRkCaWut30iM5iWewa7yCMtaYN?usp=sharing
+### Google Colab Link: 
+https://colab.research.google.com/drive/1RpDSZBrRkCaWut30iM5iWewa7yCMtaYN?usp=sharing
+
 You can either make a copy and use it in Colab or download the notebook and run it locally.
