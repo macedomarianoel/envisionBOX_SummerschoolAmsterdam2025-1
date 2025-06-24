@@ -5,3 +5,5 @@ SETUP
 3) conda activate ebox25
 4) cd Day4_MultimodalMerging
 5) pip install -r requirements.txt
+
+
