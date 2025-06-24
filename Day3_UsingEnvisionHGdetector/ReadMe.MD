@@ -1,6 +1,7 @@
 # Installation in a conda environment
 conda create -n envisionsumschool python=3.9
 conda activate envisionsumschool
+cd youfolder/Day3_UsingEnvisionHGdetector
 pip install -r requirements.txt
 
 # if not work try
